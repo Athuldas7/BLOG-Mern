@@ -1,2 +1,2 @@
-To Start Backend - Api - nodemon index.js
-To Strat Frontend - Cliend - yarn start
+To Start Backend -> Api - command -> nodemon index.js
+To Strat Frontend -> Cliend - command -> yarn start
